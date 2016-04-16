@@ -9,4 +9,8 @@
     <TextView android:text="Hello World!" android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
+<<<<<<< HEAD
 <!-- From: file:/Users/arthurnguyen/Documents/137Project/app/src/main/res/layout/activity_login.xml -->
+=======
+<!-- From: file:/C:/Users/Ben/Documents/GitHub/137Project/app/src/main/res/layout/activity_login.xml -->
+>>>>>>> master

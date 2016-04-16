@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <!-- From: file:/Users/arthurnguyen/Documents/137Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-sw600dp/values-sw600dp.xml -->
+=======
+    <!-- From: file:/C:/Users/Ben/Documents/GitHub/137Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-sw600dp/values-sw600dp.xml -->
+>>>>>>> master
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
     <dimen name="abc_action_bar_default_height_material">64dp</dimen>
@@ -9,6 +13,7 @@
     <dimen name="abc_config_prefDialogWidth">580dp</dimen>
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+<<<<<<< HEAD
     <!-- From: file:/Users/arthurnguyen/Documents/137Project/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/values-sw600dp/values-sw600dp.xml -->
     <eat-comment/>
     <dimen name="design_snackbar_action_inline_max_width">0dp</dimen>
@@ -28,4 +33,7 @@
         <item name="tabGravity">center</item>
         <item name="tabMode">fixed</item>
     </style>
+=======
+    <integer name="abc_max_action_buttons">5</integer>
+>>>>>>> master
 </resources>
